@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Kantimahanty Rohit
 #### I am a Full Stack Developer
-![I am a Full Stack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Full Stack Developer](./bg.png)
 
 I am pursuing my M. Tech in computer science from IIIT Bangalore.
 Open to explore new areas and emerging technologies with strong understanding of core subjects like OS, computer networks and DBMS.
