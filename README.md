@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Kantimahanty Rohit</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
-![I am a Full Stack Developer](./bg.png)
+<img src="./bg.png" alt="jenkins" width="40" height="40"/>
 
 I am pursuing my M. Tech in computer science from IIIT Bangalore.
 Open to explore new areas and emerging technologies with strong understanding of core subjects like OS, computer networks and DBMS.
